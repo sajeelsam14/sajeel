@@ -25,13 +25,26 @@
   continuous learner, always seeking to refine my skills. Let's connect and
   discuss how I can contribute to your next web development project!
 </h5>
-- 🌱 I’m currently learning **Advanced concept of MERN Stack** - 💬 Ask me about
-**react.js, mongoDB, express.js, node.js, Mysql, JavaScript, web development,
-API integration** - 📫 How to reach me **sajeelsam35@gmail.com** - 📄 Know about
-my experiences
-[https://drive.google.com/file/d/1smM8VBtJgTFlGfekWhbSaehxYqjREEIG/view?usp=sharing](https://drive.google.com/file/d/1smM8VBtJgTFlGfekWhbSaehxYqjREEIG/view?usp=sharing)
-- ⚡ Fun fact **I think programming removes your all stress But If you get an
-error then resolving it is stressful**
+<div>- 🌱 I’m currently learning <b>Advanced concept of MERN Stack</b></div>
+<div>
+  - 💬 Ask me about
+  <b
+    >react.js, mongoDB, express.js, node.js, Mysql, JavaScript, web development,
+    API integration</b
+  >
+</div>
+<div>- 📫 How to reach me <b>sajeelsam35@gmail.com</b></div>
+<div>
+  - 📄 Know about my experiences
+  [https://drive.google.com/file/d/1smM8VBtJgTFlGfekWhbSaehxYqjREEIG/view?usp=sharing](https://drive.google.com/file/d/1smM8VBtJgTFlGfekWhbSaehxYqjREEIG/view?usp=sharing)
+</div>
+<div>
+  - ⚡ Fun fact
+  <b
+    >I think programming removes your all stress But If you get an error then
+    resolving it is stressful</b
+  >
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
