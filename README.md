@@ -33,7 +33,7 @@
     API integration</b
   >
 </div>
-<div>- 📫 How to reach me <b>sajeelsam35@gmail.com</b></div>
+<div>- 📫 How to reach me <b<a href="mailto:sajeelsam35@gmail.com">sajeelsam35@gmail.com</a></b></div>
 <div>
   - 📄 Know about my experiences
   https://drive.google.com/file/d/1smM8VBtJgTFlGfekWhbSaehxYqjREEIG/view?usp=sharing
