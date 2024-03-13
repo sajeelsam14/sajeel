@@ -36,7 +36,7 @@
 <div>- 📫 How to reach me <b>sajeelsam35@gmail.com</b></div>
 <div>
   - 📄 Know about my experiences
-  [https://drive.google.com/file/d/1smM8VBtJgTFlGfekWhbSaehxYqjREEIG/view?usp=sharing](https://drive.google.com/file/d/1smM8VBtJgTFlGfekWhbSaehxYqjREEIG/view?usp=sharing)
+  https://drive.google.com/file/d/1smM8VBtJgTFlGfekWhbSaehxYqjREEIG/view?usp=sharing
 </div>
 <div>
   - ⚡ Fun fact
