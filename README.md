@@ -29,7 +29,7 @@
 <div>
   - 💬 Ask me about
   <b
-    >react.js, mongoDB, express.js, node.js, Mysql, JavaScript, web development,
+    >react.js, mongoDB, express.js, node.js, JavaScript ,web development,
     API integration</b
   >
 </div>
