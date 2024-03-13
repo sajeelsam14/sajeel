@@ -49,7 +49,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
-    href="linkedin.com/in/sajeel-ahmed-sam"
+    href="https://www.linkedin.com/in/sajeel-ahmed-sam"
     target="blank"
     ><img
       align="center"
