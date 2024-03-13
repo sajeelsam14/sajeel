@@ -8,17 +8,17 @@
 </div>
 <h1 align="center">Hi, I'm Sajeel Ahmed</h1>
 <h3 align="center">
-  A passionate MERN Stack Developer & AI Engineer From Pakistan
+  A passionate MERN Stack Developer From Pakistan
 </h3>
 <h5 align="center">
   I'm Sajeel Ahmed, a passionate MERN Stack web developer based in Lahore,
   Pakistan. I'm currently pursuing a Bachelor's degree in Computer Science at
   the Government College of Science Lahore (GCS Lahore), further solidifying my
   technical foundation. Building robust and interactive web applications is my
-  forte. I excel in utilizing the MERN stack, including: MongoDB: Scalable and
-  flexible NoSQL database for data storage Express.js: Powerful framework for
-  building backend APIs React.js: Efficient library for creating dynamic and
-  user-friendly interfaces Node.js: JavaScript runtime environment for
+  forte. I excel in utilizing the MERN stack, including MongoDB: A scalable and
+  flexible NoSQL database for data storage Express.js: A powerful framework for
+  building backend APIs React.js: An efficient library for creating dynamic and
+  user-friendly interfaces Node.js: a JavaScript runtime environment for
   full-stack development My expertise extends beyond the MERN stack:
   Authentication: Implementing secure user login and access control Payment
   Gateways: Integrating payment solutions for seamless transactions I'm a
@@ -49,7 +49,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/sajeel-ahmed-sam/"
+    href="linkedin.com/in/sajeel-ahmed-sam"
     target="blank"
     ><img
       align="center"
@@ -59,7 +59,7 @@
       width="40"
   /></a>
   <a
-    href="https://instagram.com/https://www.instagram.com/_sajeelahmed/"
+    href="https://www.instagram.com/_sajeelahmed/"
     target="blank"
     ><img
       align="center"
