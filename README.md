@@ -46,7 +46,7 @@
 </div>
 <div>
   - 📄 Know about my experiences
-  <a href="/">Get a Glimpse of What I Can Do</a>
+  <a href="https://sajeelahmed.netlify.app/">Get a Glimpse of What I Can Do</a>
 </div>
 <div>
   - ⚡ Fun fact
