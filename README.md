@@ -9,19 +9,9 @@
 <h1 align="center">Hi, I'm Sajeel Ahmed</h1>
 <h3 align="center">A passionate MERN Stack Developer From Pakistan</h3>
 <h5 align="center">
-  I'm Sajeel Ahmed, a passionate MERN Stack web developer based in Lahore,
-  Pakistan. I'm currently pursuing a Bachelor's degree in Computer Science at
-  the Government College of Science Lahore (GCS Lahore), further solidifying my
-  technical foundation. Building robust and interactive web applications is my
-  forte. I excel in utilizing the MERN stack, including MongoDB: A scalable and
-  flexible NoSQL database for data storage Express.js: A powerful framework for
-  building backend APIs React.js: An efficient library for creating dynamic and
-  user-friendly interfaces Node.js: a JavaScript runtime environment for
-  full-stack development My expertise extends beyond the MERN stack:
-  Authentication: Implementing secure user login and access control Payment
-  Gateways: Integrating payment solutions for seamless transactions I'm a
-  continuous learner, always seeking to refine my skills. Let's connect and
-  discuss how I can contribute to your next web development project!
+  Hi, I'm Sajeel Ahmed, a passionate full Stack Software Engineer currently pursuing a Bachelor of Science degree in Computer Science from the Government College of Science, University of the Punjab. Alongside my studies, I'm also gaining practical experience as a Full Stack Web Developer at Moonsys, where I contribute to various projects and continuously enhance my skills.
+With a strong understanding of MongoDB, Express.js, React, and Node.js, I'm dedicated to staying up-to-date with the latest web development trends and technologies. Additionally, I'm deeply interested in DevOps and am eager to learn and grow in this field.
+I'm enthusiastic about connecting with fellow developers and collaborating on innovative projects. If you're working on something exciting or looking to explore new opportunities, feel free to reach out!
 </h5>
 <di>
   <img
